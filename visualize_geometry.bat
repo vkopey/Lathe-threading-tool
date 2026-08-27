@@ -1,0 +1,1 @@
+"f:\Portable Python-3.10.5 x64\App\Python\python.exe" visualize_geometry.py --show --gamma -30 --lambda 10
